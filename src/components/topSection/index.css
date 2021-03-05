@@ -1,0 +1,39 @@
+.contain {
+  background-color: #f66fc2fd;
+  padding-left: 68px;
+  padding-bottom: 50px;
+  padding-right: 71px;
+  text-align: center;
+}
+.header {
+  flex-direction: row;
+  justify-content: space-between;
+  display: flex;
+}
+h3 {
+  color: white;
+}
+.headerlist {
+  display: flex;
+  flex-direction: row;
+}
+h6 {
+  margin-left: 20px;
+  color: white;
+}
+.name {
+  color: #ffe074;
+  font-weight: 800;
+  margin-top: 100px;
+}
+
+.bigTitle {
+  color: white;
+  font-size: 60px;
+  line-height: 45px;
+}
+.best {
+  font-size: 16px;
+  color: white;
+  font-weight: 300;
+}

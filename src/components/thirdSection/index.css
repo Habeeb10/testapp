@@ -1,0 +1,42 @@
+.container2 {
+  background-color: #f7eeff;
+  padding-left: 240px;
+  padding-right: 240px;
+  padding-top: 100px;
+}
+.port {
+  color: #ffe074;
+  width: 169px;
+  height: 19px;
+  font-weight: 700;
+  font-size: 12.27px;
+  line-height: 8.77px;
+}
+
+.all {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  width: 339px;
+  height: 23px;
+  margin-bottom: 30px;
+}
+.first {
+  background-color: #f3849f;
+  border-radius: 26px;
+  width: 51px;
+  height: 19px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.cards {
+  justify-content: space-between;
+  flex-direction: row;
+  display: flex;
+}
+.browse {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 26.52px;
+}

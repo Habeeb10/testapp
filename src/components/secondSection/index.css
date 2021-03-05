@@ -1,0 +1,47 @@
+.container {
+  margin-top: 107px;
+  margin-left: 255px;
+  margin-right: 255px;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.fa fa-play-circle {
+  color: grey;
+  font-size: 30px;
+}
+.agency {
+  color: #ffae00;
+  /* margin-bottom: 10px; */
+  font-weight: 700;
+  font-size: 12.27px;
+  line-height: 8.77px;
+}
+.video {
+  flex-direction: row;
+  justify-content: space-between;
+  display: flex;
+  width: 141px;
+  align-items: center;
+}
+.play {
+  color: #f3849f;
+  font-weight: 700;
+  font-size: 16px;
+}
+.awesome {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 30.84px;
+}
+.back {
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.pic {
+  width: 384px;
+  height: 340px;
+}
